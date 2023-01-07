@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Passionate Machine Learning Engineer.
+I'm a Passionate Machine Learning Engineer
 
 - 🔭 I’m currently working on how Machine Learning can be implemented in the field of Algorithmic Trading.
 - 🌱 I’m currently learning Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow.
