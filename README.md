@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Algorithmic Trading**
 
-- 💬 Ask me about **Data Science, Machine Learning, and Trading**
+- 💬 Ask me about **Data Science, Machine Learning, and Algorithmic Trading**
 
 - 📫 How to reach me **kottaameer@gmail.com**
 
