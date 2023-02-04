@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Ameer Kotta</h1>
 <h3 align="left">A Passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Data Science and Data Analysis**
+- 🔭 I’m currently working on **Machine Learning, Data Science and Data Analysis.**
 
 - 👯 I’m looking to collaborate on **Algorithmic Trading**
 
