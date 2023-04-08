@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Machine Learning, Data Science and Data Analysis.**
 
-- 👯 I’m looking to collaborate on **Algorithmic Trading**
+- 👯 I’m looking to collaborate on **Algorithmic Trading.**
 
-- 💬 Ask me about **Data Science, Machine Learning, and Algorithmic Trading**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning and Algorithmic Trading.**
 
 - 📫 How to reach me **kottaameer@gmail.com**
 
