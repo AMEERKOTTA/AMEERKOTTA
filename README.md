@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kottaameer@gmail.com**
 
-- ⚡ Fun fact **I have a very Boring Life.**
+- ⚡ Fun fact **I have a very Boring Life..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
