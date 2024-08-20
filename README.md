@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **Machine Learning, Data Science and Data Analysis.**
 
-- 👯 I’m looking to collaborate on **Algorithmic Trading.**
-
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning and Algorithmic Trading.**
+- 💬 Ask me about **Data Engineering, Data Science, Machine Learning, Deep Learning.**
 
 - 📫 How to reach me **kottaameer@gmail.com**
-
-- ⚡ Fun fact **I have a very Boring Life..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
