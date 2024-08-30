@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Ameer Kotta</h1>
-<h3 align="left">A Passionate Machine Learning Engineer.</h3>
+<h3 align="left">Full Stack Data Scientist.</h3>
 
 - 🔭 I’m currently working on **Data Engineering, Machine Learning, Data Science and Data Analysis.**
 
